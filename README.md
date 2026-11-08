@@ -259,7 +259,7 @@ markdown
 
 ### 『スーパーの裏でヤニ吸うふたり』
 おじさんとミステリアスな女性（田山）が、スーパーの裏の喫煙所で織りなす絶妙な距離感の日常ラブコメ。
-![スーパーの裏でヤニ吸うふたり 1巻](https://booklive.jp)
+<img src="https://media-amazon.com" width="200" alt="スーパーの裏でヤニ吸うふたり 1巻">
 ### 『ヤニねこ』
 煙草を愛し、ひたすら自堕落でクズな生活を送る猫耳（？）キャラクターたちの、お行儀の悪すぎるショートギャグ。
-![ヤニねこ 1巻](https://ssl-images-amazon.com)
+<img src="https://media-amazon.com" width="200" alt="ヤニねこ 1巻">
