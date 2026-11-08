@@ -265,3 +265,11 @@ markdown
 煙草を愛し、ひたすら自堕落でクズな生活を送る猫耳（？）キャラクターたちの、お行儀の悪すぎるショートギャグ。
 ![ヤニねこ 1巻](yanineko.jpg)
 ![ヤニねこHP](WS000001.JPG)
+
+<script src="https://utteranc.es"
+        repo="neko-no-ura-de-yani-suu-2-ri/tabacco-dialogue"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
